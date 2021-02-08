@@ -94,7 +94,7 @@ Category creation page.
 
 Manage the available sales. When a sale is active, a banner will appear on the site pages.
 
-!["admin categories"](https://github.com/SebDufresne/jungle-rails/blob/master/docs/admin-categories.png)
+!["admin categories"](https://github.com/SebDufresne/jungle-rails/blob/master/docs/admin-categories.png?raw=true)
 
 ### New Sale
 
