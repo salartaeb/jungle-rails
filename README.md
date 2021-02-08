@@ -14,37 +14,37 @@ Landing page, with an overview of all available products.
 
 Displays details for a specific product.
 
-!["product details"](https://github.com/marcusalint/jungle-rails/blob/master/docs/product-details.png)
+!["product details"](https://github.com/marcusalint/jungle-rails/blob/master/docs/product-details.png?raw=true)
 
 ### Categories Menu
 
 List all available categories.
 
-!["categories menu"](https://github.com/marcusalint/jungle-rails/blob/master/docs/categories-menu.png)
+!["categories menu"](https://github.com/marcusalint/jungle-rails/blob/master/docs/categories-menu.png?raw=true)
 
 ### Product by Category
 
 List a subset of products based on a category selection.
 
-!["product by category"](https://github.com/SebDufresne/jungle-rails/blob/master/docs/product-by-category.png)
+!["product by category"](https://github.com/marcusalint/jungle-rails/blob/master/docs/product-by-category.png?raw=true)
 
 ### Checkout Page
 
 Displays the content of the cart to proceed with order.
 
-!["checkout page"](https://github.com/SebDufresne/jungle-rails/blob/master/docs/cart-page.png)
+!["checkout page"](https://github.com/marcusalint/jungle-rails/blob/master/docs/cart-page.png?raw=true)
 
 ### Order Summary
 
 Displays order summary, once order has been finalized.
 
-!["order summary"](https://github.com/SebDufresne/jungle-rails/blob/master/docs/order-summary.png)
+!["order summary"](https://github.com/marcusalint/jungle-rails/blob/master/docs/order-summary.png?raw=true)
 
 ### About Us
 
 Details about the e-commerce.
 
-!["about us"](https://github.com/SebDufresne/jungle-rails/blob/master/docs/about-us.png)
+!["about us"](https://github.com/marcusalint/jungle-rails/blob/master/docs/about-us.png?raw=true)
 
 ## Admin Section
 
@@ -52,43 +52,43 @@ Details about the e-commerce.
 
 Access to the following sections is restricted through basic authentication.
 
-!["admin menu"](https://github.com/SebDufresne/jungle-rails/blob/master/docs/admin-menu.png)
+!["admin menu"](https://github.com/marcusalint/jungle-rails/blob/master/docs/admin-menu.png)
 
 ### Admin Dashboard
 
 Overview of categories and products available.
 
-!["admin dashboard"](https://github.com/SebDufresne/jungle-rails/blob/master/docs/admin-dashboard.png)
+!["admin dashboard"](https://github.com/marcusalint/jungle-rails/blob/master/docs/admin-dashboard.png)
 
 ### Products Administration
 
 Manage the available products.
 
-!["admin products"](https://github.com/SebDufresne/jungle-rails/blob/master/docs/admin-products.png)
+!["admin products"](https://github.com/marcusalint/jungle-rails/blob/master/docs/admin-products.png?raw=true
 
 ### New Product
 
 Product creation page.
 
-!["new product"](https://github.com/SebDufresne/jungle-rails/blob/master/docs/new-product.png)
+!["new product"](https://github.com/marcusalint/jungle-rails/blob/master/docs/new-product.png?raw=true)
 
 ### New Product Validation
 
 Validations in place for each field of a new product.
 
-!["new product validation"](https://github.com/SebDufresne/jungle-rails/blob/master/docs/new-product-validation.png)
+!["new product validation"](https://github.com/marcusalint/jungle-rails/blob/master/docs/new-product-validation.png)
 
 ### Categories Administration
 
 Manage the available categories.
 
-!["admin categories"](https://github.com/SebDufresne/jungle-rails/blob/master/docs/admin-categories.png)
+!["admin categories"](https://github.com/marcusalint/jungle-rails/blob/master/docs/admin-categories.png)
 
 ### New Category
 
 Category creation page.
 
-!["new category"](https://github.com/SebDufresne/jungle-rails/blob/master/docs/new-category.png)
+!["new category"](https://github.com/marcusalint/jungle-rails/blob/master/docs/new-category.png?raw=true)
 
 ### Sales Administration
 
@@ -100,13 +100,13 @@ Manage the available sales. When a sale is active, a banner will appear on the s
 
 Sale creation page.
 
-!["new sale"](https://github.com/SebDufresne/jungle-rails/blob/master/docs/new-sale.png)
+!["new sale"](https://github.com/marcusalint/jungle-rails/blob/master/docs/new-sale.png)
 
 ### Unit Tests
 
 RSpec and Capybara unit and UI tests.
 
-!["unit tests"](https://github.com/SebDufresne/jungle-rails/blob/master/docs/unit-tests.png)
+!["unit tests"](https://github.com/marcusalint/jungle-rails/blob/master/docs/unit-tests.png)
 
 ## Dependencies
 
