@@ -8,19 +8,19 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 Landing page, with an overview of all available products.
 
-!["landing page"](https://github.com/SebDufresne/jungle-rails/blob/master/docs/front-page.png)
+!["landing page"](https://github.com/marcusalint/jungle-rails/blob/master/docs/front-page.png?raw=true)
 
 ### Product Details
 
 Displays details for a specific product.
 
-!["product details"](https://github.com/SebDufresne/jungle-rails/blob/master/docs/product-details.png)
+!["product details"](https://github.com/marcusalint/jungle-rails/blob/master/docs/product-details.png)
 
 ### Categories Menu
 
 List all available categories.
 
-!["categories menu"](https://github.com/SebDufresne/jungle-rails/blob/master/docs/categories-menu.png)
+!["categories menu"](https://github.com/marcusalint/jungle-rails/blob/master/docs/categories-menu.png)
 
 ### Product by Category
 
